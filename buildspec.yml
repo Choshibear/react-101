@@ -1,37 +1,3 @@
-
-Neo Argatides
-
-Madelyn Highsmith
-
-Abrian Alvarado
-
-
-AWS CodePipeline Demo
-
-
-First, make a fork of this Github repository to be able to make changes to it, a simple To-Do app: https://github.com/osusara/react-101
-
-
-
-
-In the top right corner, select Fork then click Create fork
-
-
-
-In your forked repository’s root directory, select Create new file and name it buildspec.yml
-
-
-
-
-
-
-
-
-
-
-Paste the following into the file:
-
-
 version: 0.1
 
 
